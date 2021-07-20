@@ -6,4 +6,4 @@ Wynikiem modyfikacji ma być biblioteka zbiorów liczb całkowitych oparta o prz
 
 Wszystkie operacje (poza fold, iter, elements oraz is_empty) mają wykonywać się w czasie O(log n), gdzie n jest liczbą wierzchołków w drzewie.
 
-Do zadania dołączona jest oryginalna specyfikacja i implementacja zbiorów (obie dostępne na licencji GNU Lesser General Public License) oraz specyfikacja zbiorów przedziałów, której implementację należy przesłać poprzez system moodle jako plik o nazwie iSet.ml. 
+Do zadania dołączona jest oryginalna specyfikacja i implementacja zbiorów (obie dostępne na licencji GNU Lesser General Public License) oraz specyfikacja zbiorów przedziałów, której implementację należy przesłać poprzez system moodle jako plik o nazwie iSet.ml.
