@@ -27,7 +27,7 @@ https://courses.cs.washington.edu/courses/cse326/00wi/handouts/lecture7/sld001.h
 
 W naszym zadaniu dla uproszczenia zakładamy, że dane składają się z samych priorytetów.
 
-Zadanie
+### Zadanie
 Używając drzew lewicowych zaimplementuj złączalną kolejkę priorytetową z następującymi operacjami:
 
 type 'a queue (** Typ złączalnej kolejki priorytetowej *) <br /> 
